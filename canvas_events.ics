@@ -2,11 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
-SUMMARY:Brädspelsseminarium: In the Loop (förberedelser och uppföljning
- suppgift)
+SUMMARY:[Industriell ekonomi IV: företaget och omvärlden 1TS330 14615 HT
+ 2025] Brädspelsseminarium: In the Loop (förberedelser och uppföljningsu
+ ppgift)
 DTSTART:20260313T225959Z
 DTEND:20260313T225959Z
 DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/111218/as
- signments/341769
+ signments/341769/submissions/374154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Industriell ekonomi IV: företaget och omvärlden 1TS330 14615 HT
+ 2025] Debattartikel Omställning
+DTSTART:20260320T225959Z
+DTEND:20260320T225959Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/111218/as
+ signments/341771
 END:VEVENT
 END:VCALENDAR
