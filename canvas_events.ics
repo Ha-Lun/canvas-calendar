@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
 SUMMARY:[Industriell ekonomi IV: företaget och omvärlden 1TS330 14615 HT
+ 2025] L6. Företagens roll samt kursavslutning
+DTSTART:20260310T145339Z
+DTEND:20260310T145339Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/111218/di
+ scussion_topics/586200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Industriell ekonomi IV: företaget och omvärlden 1TS330 14615 HT
  2025] Brädspelsseminarium: In the Loop (förberedelser och uppföljningsu
  ppgift)
 DTSTART:20260313T225959Z
