@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
+SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
+  Projekt!
+DTSTART:20260311T090546Z
+DTEND:20260311T090546Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/116122/di
+ scussion_topics/586357
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Industriell ekonomi IV: företaget och omvärlden 1TS330 14615 HT
  2025] Brädspelsseminarium: In the Loop (förberedelser och uppföljningsu
  ppgift)
