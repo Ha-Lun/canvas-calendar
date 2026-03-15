@@ -2,11 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
+SUMMARY:[Scientific Computing for Data Analysis 1TD352 62032 VT2026] Mini-
+ project 2
+DTSTART:20260320T225959Z
+DTEND:20260320T225959Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/108824/as
+ signments/371837?anonymous_asset_id=xx3oU
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Industriell ekonomi IV: företaget och omvärlden 1TS330 14615 HT
  2025] Debattartikel Omställning
 DTSTART:20260320T225959Z
 DTEND:20260320T225959Z
 DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/111218/as
  signments/341771
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Scientific Computing for Data Analysis 1TD352 62032 VT2026] Mini-
+ project 2
+DTSTART:20260320T225959Z
+DTEND:20260320T225959Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/108824/as
+ signments/371837/submissions/374154
 END:VEVENT
 END:VCALENDAR
