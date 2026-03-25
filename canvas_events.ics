@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
-SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
-  Presentation av forskningsplan den 31
-DTSTART:20260324T142139Z
-DTEND:20260324T142139Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/116122/di
- scussion_topics/590693
+SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] #KaffemedNina fr
+ edag 27 mars kl 12.15!
+DTSTART:20260325T121929Z
+DTEND:20260325T121929Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/31945/dis
+ cussion_topics/591044
 END:VEVENT
 END:VCALENDAR
