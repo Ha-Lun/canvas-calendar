@@ -9,4 +9,12 @@ DTEND:20260325T121929Z
 DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/31945/dis
  cussion_topics/591044
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Scientific Computing for Data Analysis 1TD352 62032 VT2026] Exam 
+ grades
+DTSTART:20260325T153338Z
+DTEND:20260325T153338Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/108824/di
+ scussion_topics/591248
+END:VEVENT
 END:VCALENDAR
