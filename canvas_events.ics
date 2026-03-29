@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
-SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] #KaffemedNina fr
- edag 27 mars kl 12.15!
-DTSTART:20260325T121929Z
-DTEND:20260325T121929Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/31945/dis
- cussion_topics/591044
+SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
+  Inlämning och presentation av forskningsplan
+DTSTART:20260329T154522Z
+DTEND:20260329T154522Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/116122/di
+ scussion_topics/592247
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Scientific Computing for Data Analysis 1TD352 62032 VT2026] Exam 
- grades
-DTSTART:20260325T153338Z
-DTEND:20260325T153338Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/108824/di
- scussion_topics/591248
+SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
+  Inlämning research proposal
+DTSTART:20260330T163000Z
+DTEND:20260330T163000Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/116122/as
+ signments/385758
 END:VEVENT
 END:VCALENDAR
