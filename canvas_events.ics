@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
-SUMMARY:[Statistical Inference for Technological Applications 1TS325 64623
-  VT2026] Exams now graded and on their way to scanning
-DTSTART:20260408T120903Z
-DTEND:20260408T120903Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/109883/di
- scussion_topics/594720
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Statistical Inference for Technological Applications 1TS325 64623
-  VT2026] Answers are now uploaded in Module #0
-DTSTART:20260408T122518Z
-DTEND:20260408T122518Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/109883/di
- scussion_topics/594724
+SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] Sista chansen at
+ t söka höstens kurser idag 15/4
+DTSTART:20260415T093405Z
+DTEND:20260415T093405Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/31945/dis
+ cussion_topics/596865
 END:VEVENT
 END:VCALENDAR
