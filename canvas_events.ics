@@ -2,20 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
-SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] Tips! Lunchföre
- läsning 22/4: Etik\, pengar och mening: Patrick Siegbahn om hur våra kar
- riärval formar samhället
-DTSTART:20260420T060032Z
-DTEND:20260420T060032Z
+SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] Women@BCG event 
+ on May 21st
+DTSTART:20260424T081638Z
+DTEND:20260424T081638Z
 DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/31945/dis
- cussion_topics/597932
+ cussion_topics/599515
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] Ett initiativ f
- ör att stärka Sveriges totalförsvar: https://dronedefensehackathon.se/
-DTSTART:20260420T063003Z
-DTEND:20260420T063003Z
+SUMMARY:[Civilingenjörsprogrammet i industriell ekonomi] Ansök om utbyte
+ !
+DTSTART:20260424T090034Z
+DTEND:20260424T090034Z
 DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/31945/dis
- cussion_topics/597933
+ cussion_topics/599532
 END:VEVENT
 END:VCALENDAR
