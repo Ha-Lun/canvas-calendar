@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
-SUMMARY:[Statistical Inference for Technological Applications 1TS325 64623
-  VT2026] If you have not got your exam scanned - contact Ångström Recept
- ion
-DTSTART:20260512T105927Z
-DTEND:20260512T105927Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/109883/di
- scussion_topics/604189
+SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
+  Inlämning inför slutseminarium 
+DTSTART:20260527T215959Z
+DTEND:20260527T215959Z
+DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/116122/as
+ signments/395152
 END:VEVENT
 END:VCALENDAR
