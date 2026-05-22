@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My Canvas Calendar//
 BEGIN:VEVENT
 SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
-  Schema slutseminarium
-DTSTART:20260521T113945Z
-DTEND:20260521T113945Z
-DESCRIPTION:Canvas Link: https://uppsala.instructure.com/courses/116122/di
- scussion_topics/607938
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Självständigt arbete i industriell ekonomi 1TS332 64698 VT2026]
   Inlämning av uppsats inför slutseminarium 
 DTSTART:20260527T215959Z
 DTEND:20260527T215959Z
